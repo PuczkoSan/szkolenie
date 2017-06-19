@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // komentarz // 
+        /* kolejna zmiana */
         ?>
     </body>
 </html>
